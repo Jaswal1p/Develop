@@ -10,7 +10,16 @@ Corrected Accessibility and search engine optimizations, as follows:
 4. Added Alt attributes for content jpg images to meet WCAG standards.
 5. Added empty Alt attributes for browsers to skip these sketch images.
 6. Added a missing id attribute for searc-engine-optimization div in the content. Now clicking it in the header brings the page to this div in the content.
-7. 
+7. Removed unneccassary image closing tag for image attribute in cost management div in benefits.
+
+CSS corrections done. 
+
+1. css box margin, padding and displacy corrections performed.
+2. grouped similar styles in <div> content and in <div> benefits sections to decrease size of css code, to improve site upload time.
+3. Other font size grouped to decrese size of code.
+4. reduced number of line breaks to decrease size of css code.
+5. added comments in CSS file. 
+
 For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
 
 To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.

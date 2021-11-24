@@ -19,6 +19,7 @@ CSS corrections done.
 3. Other font size grouped to decrese size of code.
 4. reduced number of line breaks to decrease size of css code.
 5. added comments in CSS file. 
+6. change
 
 For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
 

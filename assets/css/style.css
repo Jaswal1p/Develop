@@ -103,4 +103,8 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.footer span {
+    color: red;
+    }
 /*footer Style begins*/

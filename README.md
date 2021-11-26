@@ -37,14 +37,9 @@ The website includes following images.
 
 ![Compressed-social-media-marketing__1637960013_68 9 112 16](https://user-images.githubusercontent.com/92233527/143640749-966a4dd7-8a2f-4726-bdda-ef1357f4742d.jpg)
 
-![brand-awareness](https://user-images.githubusercontent.com/92233527/143656111-4bdc66d1-7ffb-4fb8-9a52-37d499244a2b.png)
+![brand-awareness](https://user-images.githubusercontent.com/92233527/143656912-4d8cc3f2-28f3-4bf0-9197-d365161fea0a.png)
 
+![cost-management](https://user-images.githubusercontent.com/92233527/143656914-669d4fdb-463e-4871-a53b-a90a0ef15b9c.png)
 
-You are required to submit the following for review:
+![lead-generation](https://user-images.githubusercontent.com/92233527/143656919-6dde4518-4cf5-49b5-b02a-44903c106ee8.png)
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

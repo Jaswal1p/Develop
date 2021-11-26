@@ -21,6 +21,12 @@ CSS corrections done.
 5. added comments in CSS file. 
 6. change
 
+The website includes following images. 
+
+![Compressed-digital-marketing-meeting__1637959242_68 9 112 16](https://user-images.githubusercontent.com/92233527/143632259-205adf0c-ba91-4d66-a03e-37458480ed66.jpg)
+
+
+
 For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
 
 To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.

@@ -3,7 +3,7 @@
 This website for Horiseon Markatein was submitted for Refactor.
 
 The link to deployed application is:
-https://jaswal1p.github.io/Horiseon-Marketing-Refactor/
+https://jaswal1p.github.io/Horiseon-Marketing-Jaswal1p-Refactor/
 
 The link to github repository is :
 https://github.com/Jaswal1p/Horiseon-Marketing-Refactor.git

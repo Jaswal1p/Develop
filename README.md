@@ -6,7 +6,7 @@ The link to deployed application is:
 https://jaswal1p.github.io/Horiseon-Marketing-Refactor/
 
 The link to github repository is :
-git@github.com:Jaswal1p/Horiseon-Marketing-Refactor.git
+https://github.com/Jaswal1p/Horiseon-Marketing-Refactor.git
 
 Corrected Accessibility and search engine optimizationsare as follows:
 
@@ -37,45 +37,8 @@ The website includes following images.
 
 ![Compressed-social-media-marketing__1637960013_68 9 112 16](https://user-images.githubusercontent.com/92233527/143640749-966a4dd7-8a2f-4726-bdda-ef1357f4742d.jpg)
 
-![brand-awareness](https://user-images.githubusercontent.com/92233527/143641240-1aaadf79-a8e0-4f7f-a2fd-776bf23d9f0e.png)
+![brand-awareness](https://user-images.githubusercontent.com/92233527/143656111-4bdc66d1-7ffb-4fb8-9a52-37d499244a2b.png)
 
-![cost-management](https://user-images.githubusercontent.com/92233527/143641527-f79def72-295c-49c1-949f-f2479d53a5f5.png)
-
-![lead-generation](https://user-images.githubusercontent.com/92233527/143641597-9158563d-72f7-4650-b8c2-b1329aec4a60.png)
-
-For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
-
-To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-Remember when working with a client, it is essential to read the acceptance criteria for guidance and clarity on what the client expects, especially when asked to make a judgment call, such as when an icon needs an accessible alt tag and when it is okay to leave it blank. 
-
-To successfully complete this week's Challenge, all acceptance criteria must be fully addressed!
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage that meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-## Review
 
 You are required to submit the following for review:
 

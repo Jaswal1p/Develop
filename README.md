@@ -2,7 +2,13 @@
 
 This website for Horiseon Markatein was submitted for Refactor.
 
-Corrected Accessibility and search engine optimizations, as follows:
+The link to deployed application is:
+https://jaswal1p.github.io/Horiseon-Marketing-Refactor/
+
+The link to github repository is :
+git@github.com:Jaswal1p/Horiseon-Marketing-Refactor.git
+
+Corrected Accessibility and search engine optimizationsare as follows:
 
 1. Added content in meta field, to get some free advertisement on google search console.
 2. Changed title content to Horiseon with its brief description for better identification on tabs.
@@ -25,7 +31,17 @@ The website includes following images.
 
 ![Compressed-digital-marketing-meeting__1637959242_68 9 112 16](https://user-images.githubusercontent.com/92233527/143632259-205adf0c-ba91-4d66-a03e-37458480ed66.jpg)
 
+![Compressed-online-reputation-management__1637959930_68 9 112 16](https://user-images.githubusercontent.com/92233527/143639888-ff4791bd-37cc-415b-aac0-dc8f6b1fdf93.jpg)
 
+![Compressed-search-engine-optimization__1637959791_68 9 112 16](https://user-images.githubusercontent.com/92233527/143640242-91737e7e-8aad-419e-8a4d-14f62d60820b.jpg)
+
+![Compressed-social-media-marketing__1637960013_68 9 112 16](https://user-images.githubusercontent.com/92233527/143640749-966a4dd7-8a2f-4726-bdda-ef1357f4742d.jpg)
+
+![brand-awareness](https://user-images.githubusercontent.com/92233527/143641240-1aaadf79-a8e0-4f7f-a2fd-776bf23d9f0e.png)
+
+![cost-management](https://user-images.githubusercontent.com/92233527/143641527-f79def72-295c-49c1-949f-f2479d53a5f5.png)
+
+![lead-generation](https://user-images.githubusercontent.com/92233527/143641597-9158563d-72f7-4650-b8c2-b1329aec4a60.png)
 
 For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
 
